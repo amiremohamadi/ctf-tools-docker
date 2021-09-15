@@ -16,3 +16,8 @@ $ make run
 - git
 - python
 - gdb
+- radare2
+- exiftool
+- nmap
+- tshark
+- John the Ripper
